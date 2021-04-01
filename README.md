@@ -1,2 +1,2 @@
-# ondo-weather
+# Ondo Weather
 Weather app by using React Native
